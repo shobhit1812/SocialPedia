@@ -16,7 +16,7 @@
 * Light/Dark mode
 * Post Pictures
 * Authentication
-* Like Comments
+* Like Posts
 
 ## How To Use
 
@@ -53,15 +53,15 @@ $ npm start
 
 <img align="center" height="300" src="./screenshots/Screenshot (54).png"/>
 
-### Products
+### Dark Mode
 
 <img align="center" height="300" src="./screenshots/Screenshot (55).png"/>
 
-### Product Description
+### Users Detail
 
 <img align="center" height="300" src="./screenshots/Screenshot (56).png"/>
 
-### Add to cart
+### Register Page
 
 <img align="center" height="300" src="./screenshots/Screenshot (57).png"/>
 
