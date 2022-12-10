@@ -15,7 +15,7 @@
 ## Key Features
 * Light/Dark mode
 * Post Pictures
-* Authentication
+* User Authentication
 * Like Posts
 
 ## How To Use
